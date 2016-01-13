@@ -25,4 +25,4 @@ print "Is it greater", 5 > - 2
 print "Is it geater or equal?", 5 >= -2
 print "Is it less or equal?", 5 <= -2
 print "Lets see if the new line worked as expected"
-print 5 + 7 != 6 + 4 
+print 5 + 7 != 6 + 4

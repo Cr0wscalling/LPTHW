@@ -1,4 +1,4 @@
-print "How old are you?" ,
+print "How old are you?" , #the comma is to prevent the addition of a new line
 age = raw_input()
 print "How tall are you?" ,
 height = raw_input()
